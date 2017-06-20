@@ -26,6 +26,6 @@ Commands and Knowledge database for Corinthmc
 
 `chmod -R` = change the access permissions for a file and its contents
 
-Example = `chown -R {userid} {foldername}
+Example = `chown -R {userid} {foldername}`
 
 
