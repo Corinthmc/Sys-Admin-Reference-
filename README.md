@@ -22,5 +22,10 @@ Commands and Knowledge database for Corinthmc
 
 `chown -R` = change the ownership of a file and everything inside it
 
+`chmod` = change the access permissions for a file
+
+`chmod -R` = change the access permissions for a file and its contents
+
+Example = `chown -R {userid} {foldername}
 
 
